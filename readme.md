@@ -3552,6 +3552,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Team`
 - [Sqreen](https://blog.sqreen.io/) ([Feed](https://blog.sqreen.io/feed/))
   <br>`#Team`
+- [Squadcast](https://squadcast.com/blog) ([Feed](https://squadcast.com/blog))
+  <br>`#Team`  
 - [Square](https://corner.squareup.com/) ([Feed](https://medium.com/feed/square-corner-blog))
   <br>`#Team`
 - [Square](https://developer.squareup.com/blog/) ([Feed](https://developer.squareup.com/blog/rss.xml)) - The Corner, Square Engineering Blog.
